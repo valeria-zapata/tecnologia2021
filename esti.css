@@ -1,0 +1,66 @@
+.gatogigante{
+    border-radius: 10px;
+    border: solid 5px #57B5F3;
+	position: absolute;
+	top: 50px;
+	left: 100px;
+	width: 1200px;
+	height: 500px;
+	background: skyblue;
+}
+.gatito{
+	position: absolute;
+	top: 20px;
+	left: 550px;
+	width: 200px;
+	height: 50px;
+	background: #5B84D2;
+}
+.gatito2{
+	position: absolute;
+	top: 90px;
+	left: 280px;
+	width: 300px;
+	height: 410px;
+	background: chocolate;
+}
+.gatito3{
+	position: absolute;
+	top: 90px;
+	left: 680px;
+	width: 300px;
+	height: 390px;
+	background: chocolate;
+
+}
+.textox{
+
+	position: absolute;
+top: 9px;
+left: 40px;
+color: #000487;
+font-size: 30px;
+}
+.texto1{
+position: absolute;
+top: 9px;
+left: 100px;
+color: #021879;
+font-size: 30px;
+}
+.texto3{
+position: absolute;
+top: 45px;
+left: 17px;
+right: 17px;
+color: ;
+font-size: 15px;}
+.foto{
+	position: absolute;
+top: 200px;
+left: 50px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(ga.jpg);
+background-size: cover;
