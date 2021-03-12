@@ -1,4 +1,4 @@
-.shinne1{
+.shinne{
     border-radius: 10px;
     border: solid 5px #232323;
 	position: absolute;
@@ -8,7 +8,7 @@
 	height: 550px;
 	background: #B7B7B7;
 }
-.arigato1{
+.arigato{
 	position: absolute;
 	top: 20px;
 	left: 480px;
@@ -26,7 +26,7 @@ height: 190px;
 background: url(senpai3.jpg);
 background-size: cover;
 }
-.ara1{
+.ara{
 	position: absolute;
 	top: 100px;
 	left: 140px;
@@ -43,7 +43,7 @@ background-size: cover;
 	background: #232323;
 
 }
-.textox1{
+.textox{
 
 	position: absolute;
 top: 9px;
@@ -105,7 +105,3 @@ height: 190px;
 background: url(senpai2.jpg);
 background-size: cover;
 }
-
-
-
-
