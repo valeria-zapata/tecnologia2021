@@ -1,0 +1,154 @@
+.shinne{
+    border-radius: 10px;
+    border: solid 8px #939393;
+	position: absolute;
+	top: 250px;
+	left: 100px;
+	width: 1100px;
+	height: 550px;
+	background: #BFBFBF;
+}
+
+.arigato{
+	position: absolute;
+	top: 20px;
+	left: 480px;
+	width: 200px;
+	height: 50px;
+	background: #FFFFFF;
+}
+.foto2{
+	position: absolute;
+top: 200px;
+left: 450px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(senpai3.jpg);
+background-size: cover;
+}
+.ara1{
+	position: absolute;
+	top: 100px;
+	left: 110px;
+	width: 350px;
+	height: 420px;
+	background: #000000;
+	border-radius: 8px;
+border: solid 8px#000000;
+
+}
+.ara{
+	position: absolute;
+	top: 10px;
+	left: 1px;
+	width: 330px;
+	height: 160px;
+	background: #000000;
+	background: rgba(167, 165, 165,0.5);
+border-radius: 8px;
+border: solid 8px#FFFFFF;
+}
+.ara2{
+	position: absolute;
+	top: 4px;
+	left: 425px;
+	width: 450px;
+	height: 420px;
+	background: rgba(2, 55, 59,0.5);
+border-radius: 8px;
+border: solid 8px#012E32;
+
+}
+.textox{
+
+	position: absolute;
+top: 9px;
+left: 33px;
+color: #000000;;
+font-size: 30px;
+background: #FFFFFF;
+background: rgba(64, 64, 64,0.3);
+border-radius: 1px;
+border: solid 2px#2A2A2A;
+}
+.texto1{
+position: absolute;
+top: 9px;
+left: 80px;
+color: #232323;
+font-size: 30px;
+background: #FFFFFF;
+}
+.to2{
+position: absolute;
+top: 180px;
+left: 15px;
+right: 10px;
+color: #000000;;
+font-size: 30px;
+background: #FFFFFF;
+font-size: 26px;
+}
+.texto3{
+position: absolute;
+top: 60px;
+left: 15px;
+right: 17px;
+color: #FFFFFF;
+font-size: 21px;
+}
+
+.foto1{
+position: absolute;
+top: 200px;
+left: 50px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(b1.jpg);
+background-size: cover;
+}
+.foto2{
+position: absolute;
+top: 200px;
+left: 30px;
+right: 45px;
+width: 200px;
+height: 190px;
+background: url(b2.jpg);
+background-size: cover;
+}
+.foto3{
+position: absolute;
+top: 200px;
+left: 240px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(b3.jpg);
+background-size: cover;
+}
+.foto4{
+position: absolute;
+top: 10px;
+left: 240px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(b4.jpg);
+background-size: cover;
+}
+.foto5{
+position: absolute;
+top: 10px;
+left: 30px;
+right: 45px;
+width: 200px;
+height: 190px;
+background: url(b5.jpg);
+background-size: cover;
+}
+
+
+
