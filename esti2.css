@@ -1,0 +1,111 @@
+.shinne1{
+    border-radius: 10px;
+    border: solid 5px #232323;
+	position: absolute;
+	top: 250px;
+	left: 100px;
+	width: 1100px;
+	height: 550px;
+	background: #B7B7B7;
+}
+.arigato1{
+	position: absolute;
+	top: 20px;
+	left: 480px;
+	width: 200px;
+	height: 50px;
+	background: #B7B7B7;
+}
+.foto2{
+	position: absolute;
+top: 200px;
+left: 450px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(senpai3.jpg);
+background-size: cover;
+}
+.ara1{
+	position: absolute;
+	top: 100px;
+	left: 140px;
+	width: 350px;
+	height: 410px;
+	background: #232323;
+}
+.ara2{
+	position: absolute;
+	top: 100px;
+	left: 625px;
+	width: 450px;
+	height: 410px;
+	background: #232323;
+
+}
+.textox1{
+
+	position: absolute;
+top: 9px;
+left: 35px;
+color: #000000;;
+font-size: 30px;
+background: #FFFFFF;
+}
+.texto1{
+position: absolute;
+top: 9px;
+left: 80px;
+color: #232323;
+font-size: 30px;
+background: #FFFFFF;
+}
+.to2{
+position: absolute;
+top: 85px;
+left: 15px;
+right: 17px;
+color: #FFFFFF;
+font-size: 26px;}
+.texto3{
+position: absolute;
+top: 80px;
+left: 15px;
+right: 17px;
+color: #FFFFFF;
+font-size: 21px;}
+
+.foto1{
+position: absolute;
+top: 200px;
+left: 50px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(senpai.png);
+background-size: cover;
+}
+.foto2{
+position: absolute;
+top: 200px;
+left: 30px;
+right: 45px;
+width: 200px;
+height: 190px;
+background: url(senpai3.jpg);
+background-size: cover;
+}
+.foto3{
+position: absolute;
+top: 200px;
+left: 240px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(senpai2.jpg);
+background-size: cover;
+}
+
+
+
+
