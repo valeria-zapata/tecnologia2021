@@ -1,11 +1,142 @@
 .shinne{
     border-radius: 10px;
-    border: solid 8px #939393;
+    border: solid 8px #B04C1D;
 	position: absolute;
 	top: 250px;
 	left: 100px;
-	width: 1100px;
-	height: 550px;
-	background: #BFBFBF;
+	width: 1000px;
+	height: 850px;
+	background: #DD6127;
+}
+.foto2{
+position: absolute;
+top: 500px;
+left: 150px;
+right: 150px;
+width: 800px;
+height: 800px;
+background: url(g2.png);
+background-size: cover;
+transform: rotate(-45deg);
+}
+.foto3{
+position: absolute;
+top: 670px;
+left: 480px;
+right: 150px;
+width: 100px;
+height: 100px;
+background: url(s1.png);
+background-size: cover;
+}
+.foto1{
+position: absolute;
+top: 500px;
+left: 150px;
+right: 350px;
+width: 600px;
+height: 600px;
+background: url(t1.png);
+background-size: cover;
+}
+.pluma1{
+position: absolute;
+top: 200px;
+left: 50px;
+right: 50px;
+width: 400px;
+height: 400px;
+background: url(p1.png);
+background-size: cover;
+transform: rotate(70deg);
+}
+.pluma2{
+position: absolute;
+top: 200px;
+left: 740px;
+right: 50px;
+width: 500px;
+height: 500px;
+background: url(p2.png);
+background-size: cover;
+transform: rotate(-70deg);
+}
+.colombia1{
+position: absolute;
+top: 650px;
+left: 950px;
+right: 50px;
+width: 100px;
+height: 100px;
+background: url(colombia.jpg);
+background-size: cover;
+border-radius: 400px;
+}
+.chile{
+position: absolute;
+top: 730px;
+left: 950px;
+right: 50px;
+width: 100px;
+height: 100px;
+background: url(chile.jpg);
+background-size: cover;
+border-radius: 400px;
+}
+.bolivia{
+position: absolute;
+top: 800px;
+left: 950px;
+right: 50px;
+width: 100px;
+height: 100px;
+background: url(bolivia.jpg);
+background-size: cover;
+border-radius: 400px;
+}
+.uruguay{
+position: absolute;
+top: 870px;
+left: 950px;
+right: 50px;
+width: 100px;
+height: 100px;
+background: url(uruguay.png);
+background-size: cover;
+border-radius: 400px;
+}
+.ecuador{
+position: absolute;
+top: 930px;
+left: 950px;
+right: 50px;
+width: 100px;
+height: 100px;
+background: url(ecuador.jpg);
+background-size: cover;
+border-radius: 400px;
+}
+.paraguay{
+position: absolute;
+top: 980px;
+left: 950px;
+right: 50px;
+width: 100px;
+height: 100px;
+background: url(paraguay.png);
+background-size: cover;
+border-radius: 400px;
+}
+.to2{
+position: absolute;
+top: 430px;
+left: 500px;
+right: 60px;
+width: 300px;
+height: 50px;
+color: #000000;;
+font-size: 30px;
+background: #FFFFFF;
+font-size: 26px;
 }
 
