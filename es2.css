@@ -8,6 +8,16 @@
 	height: 850px;
 	background: #DD6127;
 }
+.fondo{
+position: absolute;
+top: 260px;
+left: 100px;
+right: 150px;
+width: 1000px;
+height: 850px;
+background: url(fondo.png);
+background-size: cover;
+}
 .foto2{
 position: absolute;
 top: 500px;
@@ -130,7 +140,7 @@ border-radius: 400px;
 .to2{
 position: absolute;
 top: 400px;
-left: 500px;
+left: 400px;
 right: 800px;
 width: 300px;
 height: 800px;
@@ -158,4 +168,84 @@ height: 80px;
 color: #DEDE10;
 font-size: 36px;
 }
-
+.to5{
+position: absolute;
+top: 700px;
+left: 150px;
+right: 800px;
+width: 150px;
+height: 50px;
+color: #232323;
+font-size: 30px;
+background: #DEDE10;
+}
+.to6{
+position: absolute;
+top: 800px;
+left: 150px;
+right: 800px;
+width: 150px;
+height: 50px;
+color: #DEDE10;
+font-size: 37px;
+}
+.to7{
+position: absolute;
+top: 680px;
+left: 800px;
+right: 1000px;
+width: 750px;
+height: 50px;
+color: #ffffff;
+font-size: 30px;
+}
+.to8{
+position: absolute;
+top: 750px;
+left: 850px;
+right: 1000px;
+width: 750px;
+height: 50px;
+color: #ffffff;
+font-size: 30px;
+}
+.to9{
+position: absolute;
+top: 830px;
+left: 830px;
+right: 1000px;
+width: 750px;
+height: 50px;
+color: #ffffff;
+font-size: 30px;
+}
+.to10{
+position: absolute;
+top: 900px;
+left: 830px;
+right: 1000px;
+width: 750px;
+height: 50px;
+color: #ffffff;
+font-size: 30px;
+}
+.to11{
+position: absolute;
+top: 960px;
+left: 830px;
+right: 1000px;
+width: 750px;
+height: 50px;
+color: #ffffff;
+font-size: 30px;
+}
+.to12{
+position: absolute;
+top: 1000px;
+left: 830px;
+right: 1000px;
+width: 750px;
+height: 50px;
+color: #ffffff;
+font-size: 30px;
+}
